@@ -1,0 +1,98 @@
+@media only screen and (max-width: 1200px){
+  .hero-text-box1{
+    height: 25rem;
+    height: 70vh;
+  }
+  .main-hed{
+      height: 120vh;
+  }
+}
+
+@media only screen and (max-width: 1024px)
+{
+  .mobile-menu span{
+    display: block;
+  }
+   .row {
+     margin: 0 15px;
+   }
+   .hero-text-box{
+     width: 90%;
+   }
+   #navbar{
+     display : none;
+   }
+   html{
+     font-size: 57.5%;
+   }
+.clint-photo{
+  width: 100%;
+  float: none;
+  text-align: center;
+}
+.clint-review{
+  width: 100%;
+  float: none;
+  text-align: center;
+}
+.contact-section form{
+  width: 100%;
+  margin-left: 0;
+}
+
+}
+
+@media only screen and (max-width: 980px){
+  .span_1_of_4{
+    width: 49.2%;
+  }
+  .span_1_of_4:nth-child(3){
+   margin-left: 0;
+  }
+  html{
+    font-size: 62.5%;
+  }
+  .hero-text-box1{
+width: 70%;
+height: 40rem;
+margin: auto;
+font-size: 57.2%;
+
+  }
+  h1{
+    font-size: 3.5rem;
+  }
+
+}
+@media only screen and (max-width: 768px){
+.little-description{
+  width: 100%;
+  margin-left: 0;
+}
+html{
+  font-size: 47%;
+}
+.span_1_of_4,
+.span_1_of_2{
+  width: 100%;
+}
+}
+@media only screen and (max-width: 480px){
+html{
+  font-size: 50%;
+}
+.main-hed{
+  height: 70vh;
+}
+.hero-text-box1{
+width: 70%;
+height: 33rem;
+margin: auto;
+
+}
+.hero-text-box1{
+  height: 50rem;
+}
+
+
+}
